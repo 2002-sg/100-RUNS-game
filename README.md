@@ -22,12 +22,14 @@ How to Play
 3.    The counter moves requisites number of spaces shown on the facet of the dice.
 4. To win the player will need to roll the exact number to get to the last space of “Winner”. If the player rolls a higher number than needed to land exactly on 100, the piece       does not move and remains there until they roll the die again.
  The game offers two categories during game play:
+ 
 Delighters: When the player land at any of the tile stating the below numbers, the bonus points gets added up to the scoreboard generated till now.
 1.    2 and 3 runs
 2.    Four
 3.    Six
 4.    50 runs
 5.    100 and 150 runs
+
  Sinkers: When the player land at any of the tile stating the below keys:
 1.    Clean Bold: If it is a clean bold tile, the counter gets positioned at 1
 2.    Run Out: If it is run out tile, the player jumps back to the previous position gained.
